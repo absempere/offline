@@ -16,12 +16,20 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "lwjameson",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [],
       "tags": []
     },
     "created_at": "2024-12-06T20:25:42.003Z",
-    "updated_at": "2024-12-06T20:26:35.862Z"
-  }
+    "updated_at": "2024-12-09T19:24:06.113Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
