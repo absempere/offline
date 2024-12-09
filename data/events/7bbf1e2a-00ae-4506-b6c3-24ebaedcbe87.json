@@ -12,6 +12,16 @@
   "label": "August 3, 1953 Evening",
   "created_at": "2024-12-06T20:26:35.466Z",
   "created_by": "absempere",
-  "updated_at": "2024-12-09T16:28:39.719Z",
-  "updated_by": "absempere"
+  "updated_at": "2024-12-09T20:16:06.051Z",
+  "updated_by": "absempere",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Trying to edit the Event description."
+        }
+      ]
+    }
+  ]
 }
