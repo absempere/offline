@@ -2,7 +2,7 @@
   "audiovisual_files": {
     "37df3dc6-1c15-4cc2-8c23-388aa61ad796": {
       "label": "7.5_tape05,7.5_tape06, 7.5_tape07, 7.5_tape08",
-      "is_offline": false,
+      "is_offline": true,
       "duration": 1
     }
   },
@@ -12,6 +12,6 @@
   "label": "August 4, 1953 Afternoon",
   "created_at": "2024-12-06T20:26:35.466Z",
   "created_by": "absempere",
-  "updated_at": "2024-12-06T20:26:35.466Z",
+  "updated_at": "2024-12-09T16:28:48.208Z",
   "updated_by": "absempere"
 }
