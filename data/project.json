@@ -9,26 +9,20 @@
     "github_org": "absempere",
     "is_private": false,
     "title": "No Media",
-    "description": "No media project",
+    "description": "This is a test project",
     "language": "en",
     "slug": "offline",
     "creator": "absempere",
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "lwjameson",
-        "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
       "tagGroups": [],
       "tags": []
     },
     "created_at": "2024-12-06T20:25:42.003Z",
-    "updated_at": "2024-12-09T19:24:06.113Z",
+    "updated_at": "2024-12-09T20:15:45.808Z",
     "generate_pages_site": true
   },
   "is_private": false
